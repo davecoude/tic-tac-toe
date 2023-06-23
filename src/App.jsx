@@ -5,7 +5,7 @@ import './App.css'
 import { TURNS } from './board'
 import { Square } from './components/Square'
 import { checkWinner, checkEndGame } from './logic/checkWinner'
-import { WinnerModal } from './components/winnerModal'
+import { WinnerModal } from './components/WinnerModal'
 
 // componente principal
 export function App () {
